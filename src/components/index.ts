@@ -1,0 +1,5 @@
+export { default as Menu } from './GlobalComponents/menu'
+export { default as Header } from './GlobalComponents/header'
+export { default as Loader } from './GlobalComponents/loader'
+export { default as Steps } from './GlobalComponents/Steps'
+export { default as UploadImage } from './GlobalComponents/uploadImage'

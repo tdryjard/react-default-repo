@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+    <defs>
+        <clipPath id="ijte5s5xna">
+            <rect data-name="Rectangle 1593" width="55" height="55" rx="9" style="fill:none"/>
+        </clipPath>
+        <clipPath id="s61c75ep2c">
+            <path data-name="Rectangle 1594" style="fill:none" d="M0 0h55v55H0z"/>
+        </clipPath>
+        <linearGradient id="jc8ov68b8b" y1=".975" x2=".997" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#0ff"/>
+            <stop offset="1" stop-color="#002dff"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Groupe 276">
+        <g data-name="Groupe 275" style="clip-path:url(#ijte5s5xna)">
+            <path data-name="Rectangle 1592" style="fill:url(#jc8ov68b8b)" d="M0 0h55v55H0z"/>
+        </g>
+    </g>
+    <g data-name="Groupe 278">
+        <g data-name="Groupe 277" style="clip-path:url(#s61c75ep2c)">
+            <path data-name="Tracé 263" d="M45.957 95.473h11.236l1.7-4.674h6.329v-7.553h-2.779l2.38-9.126-.055-.031a2.965 2.965 0 0 1 .454-5.383v-6.328h-5.29z" transform="translate(-38.752 -52.598)" style="fill:#fff"/>
+            <path data-name="Tracé 264" d="M181.1 62.377v6.3a2.967 2.967 0 0 1 .522 5.409l-.055.031 2.38 9.126H181.1V90.8h6.088l1.653 4.674H200.5l-13.453-33.097z" transform="translate(-152.708 -52.598)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

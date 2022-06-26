@@ -1,0 +1,60 @@
+{
+  "error": "Une erreur est survenue, veuillez réessayer ou nous contacter.",
+  "password": "Mot de passe",
+  "username": "Nom d'utilisateur",
+  "passwordRequired": "Veuillez renseigner votre mot de passe",
+  "usernameRequired": "Veuillez renseigner votre nom d'utilisateur",
+  "myAccount": "Mon compte",
+  "disconnect": "Déconnexion",
+  "badEmail": "Veuillez renseigner une adresse email correcte",
+  "cancel": "Annuler",
+  "send": "Envoyer",
+  "import": "Importer",
+  "manufacturer": "Industriel",
+  "manyManufacturers": "Industriel(s)",
+  "distributor": "Distributeur",
+  "status": "Statut",
+  "previous": "Précédent",
+  "next": "Suivant",
+  "internship": "Entreprise",
+  "admins": "Responsables",
+  "decryptionNumber": "Nombre de décryptages",
+  "successfullyUpdated": "Modification correctements envoyées et mises à jour",
+  "requiredField": "Le champ {{field}} doit être rempli",
+  "title": "Titre",
+  "export": "Exporter",
+  "auth": {
+    "connect": "Se connecter",
+    "forgotPassword": "Mot de passe oublié ?",
+    "login": {
+      "success": "Connecté avec succès, bienvenue !",
+      "error": "Nom d'utilisateur ou mot de passe incorrect"
+    },
+    "resetPassword": {
+      "badResetPassword": "Veuillez renseigner un nouveau mot de passe correcte",
+      "resetEmailIsSent": "Un e-mail contenant le lien de réinitialisation vient de vous être envoyé",
+      "subject": "Réinitialisation de votre mot de passe",
+      "subjectConfirm": "Votre mot de passe vient d'être modifié avec succés",
+      "valid": "Votre mot de passe vient d'être modifié avec succés",
+      "error": "Il semblerait qu'il y ai eu un problème, veuillez réessayer de réinitialiser votre mot de passe ou de nous contacter",
+      "step1": {
+        "title": "Vous avez oublié votre mot de passe ?",
+        "subTitle": "Saisissez l’adresse e-mail que vous utilisez pour vous connecter, un lien vous sera alors envoyé pour réinitialiser votre mot de passe.",
+        "placeholder": "Adresse e-mail"
+      },
+      "step2": {
+        "title": "Réinitialisez votre mot de passe",
+        "placeholder": "Nouveau mot de passe",
+        "placeholder2": "Confirmation du nouveau mot de passe",
+        "rules": {
+          "title": "Votre mot de passe doit contenir au minimum :",
+          "charLength": "10 caractères",
+          "lower": "1 minuscule",
+          "digit": "1 chiffre",
+          "special": "1 caractère spécial",
+          "upper": "1 majuscule"
+        }
+      }
+    }
+  }
+}

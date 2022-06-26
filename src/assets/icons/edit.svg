@@ -1,0 +1,13 @@
+<svg data-name="Icon, MODIFIER XL" xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+    <defs>
+        <clipPath id="2x4itjnpca">
+            <path data-name="Rectangle 1718" style="fill:#fff" d="M0 0h17.599v17.79H0z"/>
+        </clipPath>
+    </defs>
+    <rect data-name="Rectangle 1714" width="38" height="38" rx="10" style="fill:#002dff"/>
+    <g data-name="Groupe 2907">
+        <g data-name="Groupe 2906" style="clip-path:url(#2x4itjnpca)" transform="translate(10.046 10.024)">
+            <path data-name="Tracé 4484" d="M1.053 12.111.02 16.765a.841.841 0 0 0 .822 1.025.969.969 0 0 0 .19-.021l4.587-1.054a.853.853 0 0 0 .409-.228L16.747 5.628a2.952 2.952 0 0 0 0-4.148l-.59-.6a2.947 2.947 0 0 0-4.2 0L1.272 11.7a.854.854 0 0 0-.219.413zm.9 3.714.278-1.265a7.328 7.328 0 0 0 .97.978zm.923-3.351L10.8 4.452l2.369 2.4-7.926 8.025a5.5 5.5 0 0 1-2.365-2.4zM14.058 1.686a1.253 1.253 0 0 1 .9.375l.59.6a1.27 1.27 0 0 1 0 1.779l-1.2 1.21-2.369-2.4 1.172-1.189a1.287 1.287 0 0 1 .907-.375z" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

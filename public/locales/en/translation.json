@@ -1,0 +1,60 @@
+{
+  "error": "An error has occurred, please try again or contact us.",
+  "password": "Password",
+  "username": "Username",
+  "passwordRequired": "Please input your password",
+  "usernameRequired": "Please input your username",
+  "myAccount": "My account",
+  "disconnect": "Disconnect",
+  "badEmail": "Please enter a correct email address",
+  "cancel": "Cancel",
+  "send": "Send",
+  "import": "Import",
+  "manufacturer": "Manufacturer",
+  "manyManufacturers": "Manufacturer(s)",
+  "distributor": "Distributor",
+  "status": "Status",
+  "previous": "Previous",
+  "next": "Next",
+  "internship": "Internship",
+  "admins": "Admins",
+  "decryptionNumber": "Number of decryption",
+  "successfullyUpdated": "Changes correctly sent and updated",
+  "requiredField": "The field {{field}} must be filled",
+  "title": "Title",
+  "export": "Export",
+  "auth": {
+    "connect": "Log in",
+    "forgotPassword": "Forgot your password?",
+    "login": {
+      "success": "Successfully connected, welcome!",
+      "error": "Incorrect username or password"
+    },
+    "resetPassword": {
+      "badResetPassword": "Please enter a new correct password",
+      "resetEmailIsSent": "An email containing the reset link has just been sent to you",
+      "subject": "Reset your password",
+      "subjectConfirm": "Your password has been successfully changed",
+      "valid": "Your password has been successfully changed",
+      "error": "There seems to have been a problem, please try resetting your password or contacting us",
+      "step1": {
+        "title": "Forgot your password?",
+        "subTitle": "Enter the email address you use to log in, and a link will be sent to you to reset your password.",
+        "placeholder": "E-mail address"
+      },
+      "step2": {
+        "title": "Reset your password",
+        "placeholder": "New password",
+        "placeholder2": "Confirm new password",
+        "rules": {
+          "title": "Your password must contain at least :",
+          "charLength": "10 characters",
+          "lower": "1 lower case",
+          "digit": "1 number",
+          "special": "1 special character",
+          "upper": "1 upper case"
+        }
+      }
+    }
+  }
+}
